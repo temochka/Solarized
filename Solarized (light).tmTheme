@@ -217,8 +217,6 @@
 			<string>entity.name.tag</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#268BD2</string>
 			</dict>
@@ -477,8 +475,6 @@
 			<string>source.css entity.other.attribute-name.id</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#B58900</string>
 			</dict>
@@ -654,8 +650,6 @@
 			<string>text.html.ruby</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#657b83</string>
 			</dict>
@@ -704,8 +698,6 @@
 			<string>entity.name.tag.block.any.html</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#268BD2</string>
 			</dict>
@@ -809,8 +801,6 @@
 			<string>keyword.control.ruby, keyword.control.def.ruby</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#859900</string>
 			</dict>
